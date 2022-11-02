@@ -1,2 +1,2 @@
-c3_NumParse
+numparse
 numpy
