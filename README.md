@@ -8,7 +8,7 @@ For more details, please see our paper: [Generation of Compositional Programs fo
 
 ### Requirements
 
-This repository requires Python 3 and the Num_Parse library. You can install necessary libraries using
+This repository requires Python 3. You can install necessary libraries using
 the `requirements.txt` file in this repository:
 
 ```commandline
