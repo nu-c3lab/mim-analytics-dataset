@@ -1,4 +1,4 @@
-# MimAnalyticsDataset
+# Mim Analytics Dataset
 
 This is a repository containing the data and evaluation scripts for the Mim Analytics Dataset. This open-domain question answering dataset
 consists of 432 questions requiring 8 distinct types of reasoning: addition, subtraction, comparison, Boolean equality, existence, 
